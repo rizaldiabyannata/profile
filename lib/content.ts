@@ -4,9 +4,9 @@ export const site = {
   name: "ATO Team",
   legalName: "ATO - A Technology Organization",
   // TODO(sprint 0): replace placeholders with the official domain, number, and email.
-  url: "https://ato-team.example",
-  whatsapp: "6280000000000",
-  email: "hello@ato-team.example",
+  url: "https://atoteam.tech",
+  whatsapp: "6285238935528",
+  email: "hello@atoteam.tech",
   city: "Mataram",
   region: "West Nusa Tenggara",
   country: "Indonesia",
